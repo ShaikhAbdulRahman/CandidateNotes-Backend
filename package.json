@@ -23,5 +23,13 @@
     "socket.io-client": "^4.8.1"
   },
   "devDependencies": {},
-  "keywords": []
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaikhAbdulRahman/CandidateNotes-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShaikhAbdulRahman/CandidateNotes-Backend/issues"
+  },
+  "homepage": "https://github.com/ShaikhAbdulRahman/CandidateNotes-Backend#readme"
 }
